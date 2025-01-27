@@ -1,0 +1,40 @@
+#position {
+    border: 2px solid rgb(114, 63, 54);
+   }
+   
+#vishnu {
+    border: 5px solid blue;
+}
+
+  div {
+    border:2px solid purple;
+    border-radius: 65px;
+    border-width: 5px;
+    padding: 10px;
+  }
+  #div_head {
+    text-align: center;
+    font-weight:bold;
+    text-decoration: underline;
+    text-decoration-color: rgb(226, 189, 43);
+   
+  }
+  #example {
+    text-indent: 100px;
+    letter-spacing: 2px ;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: italic;
+    text-align: justify;
+    text-shadow: 2px 2px 2px red;
+  }
+#anchor {
+    text-transform: uppercase;
+    color:maroon;
+}
+#head {
+  background-color: maroon;
+  color: beige;
+}
+*body{
+  background-image: ;
+}

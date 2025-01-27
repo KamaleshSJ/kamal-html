@@ -1,0 +1,44 @@
+.row-1{
+    height: 10vh;
+    align-content: center;
+    font-weight: bold;
+}
+.swing{
+    margin-top: 100px;
+    font-size: 10vh ;
+    font-family:monospace  ;
+    color: maroon;
+}
+.in-row-1{
+    height: 30vh;
+}
+.in-row-2{
+    height: 70vh;
+    background-image: url(./photos/tennis.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    margin-left: 100px;
+    margin-right: 100px;
+    border-radius: 60px;
+    margin-top: -20px;
+    margin-bottom: 100px;
+    box-shadow: 4px 4px 15px 8px black;
+}
+.row-3{
+    background-color: black;
+    height: 30vh;
+}
+.tennis{
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+}
+.email{
+    margin-left: 200px;
+    margin-top: 20px;
+}
+::placeholder{
+    color: white;
+    opacity: 60%;
+    
+}

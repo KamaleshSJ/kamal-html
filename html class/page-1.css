@@ -1,0 +1,42 @@
+.navbar-brand{
+    font-weight: bolder;
+    color: orangered;
+    font-size: 30px;
+}
+.nav-item {
+    margin-left: 25px;
+
+}
+.nav-link{
+    color: white;
+}
+.com-name{
+    color: orangered;
+}
+.more{
+    border: 2px solid orangered;
+    border-radius: 5px;
+    background: transparent;
+    color: white;
+}
+.text{
+    color: white;
+}
+.row1{
+    background-image: url(./photos/976df4f7-bf62-406e-b93d-5e3a5d28fde7.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+.body-content{
+    margin-top: 150px;
+    margin-left: 75px;
+}
+
+.col2{
+    margin-left: 75px;
+}
+.sample{
+    justify-content: center;
+}

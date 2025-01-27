@@ -1,0 +1,111 @@
+.Maindiv{
+
+   background-image: url(https://images.freecreatives.com/wp-content/uploads/2015/03/Huge-Backgrounds-63.jpg );
+   background-position : relative;
+   background-repeat: no-repeat;
+   background-size:cover;
+   height:100vh;
+   opacity: 0.95;
+}
+.content{
+   color: rgb(252, 4, 4);
+   position: relative;
+   
+   top: 40%;
+   left: 20%;
+}
+.read {
+    background-color: rgba(6, 6, 84,0.75);
+    border: 0px solid black;
+    border-radius: 5px;
+    box-shadow: 5px 5px 10px 3px black;
+    padding: 10px;
+    color: white;
+    font-weight:normal;
+}
+.meet {
+    border: 2px solid white;
+    padding: 10px;
+    color: red;
+    font-weight: bolder;
+    border: 0px solid black;
+    border-radius: 5px;
+    box-shadow: 5px 5px 10px 3px black;
+    background-color: black;
+    background: transparent;
+    margin-left: 50px;
+}
+p{
+    color: rgb(225, 177, 235);
+}
+.profile{
+    width: 300px;
+    height: 400px;
+    position: relative;
+    border: 0px solid black;
+    border-radius: 50px;
+    left: 550px;
+    top: -350px;
+    box-shadow: 5px 5px 10px 5px rgb(15, 152, 215);
+}
+figcaption{
+    position: relative;
+    left: 620px;
+    top: -350px;
+    color: rgb(122, 6, 255);
+    font-size: xx-large;
+    text-shadow: 5px 5px 10px  red;
+}
+.mask{
+   position: relative;
+   width: 300px;
+   top: -400px;
+   mask-image: url(./photos/pngwing.com.png);
+   mask-size: 50%;
+   mask-repeat: no-repeat;
+   
+}
+.nav{
+    background-color: rgb(27, 30, 29);
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+.li{
+    float: left;
+    display: inline;
+    text-align: left;
+    color: rgb(255, 255, 255);
+    padding: 20px;
+    transition-duration: 0.5s;
+    transition-delay: 0;
+}
+li:hover{
+    background-color: rgb(120, 19, 19);
+}
+li:active{
+    background-color: rgb(1, 239, 140);
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+.look{
+    font-size: ;
+}
+ /* style for task 2*/
+.task_1{
+    width: 100vh;
+    height: 100vh;
+    background-image: url("./photos/fabric.jpg");
+    background-repeat: no-repeat;
+    padding: 1px;
+}
+
+
+.h4 {
+   margin-left: auto;
+
+}

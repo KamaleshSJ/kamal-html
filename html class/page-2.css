@@ -1,0 +1,65 @@
+.navbar-brand{
+
+    color: green;
+}
+.row-2{
+    background-image: url(./photos/WhatsApp\ Image\ 2025-01-21\ at\ 2.35.09\ PM.jpeg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 75vh;
+}
+.content{
+    align-content: center;
+    color: red;
+}
+
+
+ .row-3{
+    height: 50vh;
+   
+}
+.blue{
+    background-color: rgb(50, 126, 129);
+}
+
+.green{
+    background-color: rgb(17, 143, 17);
+}
+.beige{
+    background-color: rgb(234, 228, 174);
+}
+.pink{
+    background-color: rgb(238, 163, 176);
+} 
+.blue,.green,.beige,.pink{
+    align-content: center;
+}
+.row-4{
+    align-content: center;
+    background-color: rgb(251, 251, 219);
+    height: 100vh;
+}
+.col-2{
+    align-content: center;
+    height: 50vh;
+}
+.row-5{
+    height: 50vh;
+}
+.in-col-1{
+    background-image: url(./photos/strawberry.jpeg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.in-col-2{
+    background-color: aqua;
+    align-content: center;
+}
+.ms-2{
+    margin-left: 200px;
+    margin-top: 50px;
+    justify-content: flex-end;
+}
+i{
+    transform: scale(4,4);
+}
